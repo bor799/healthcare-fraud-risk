@@ -40,4 +40,4 @@ evaluation.py           评估工具
 
 我不会先堆模型，而会先补齐：可公开的小型样本、数据契约、可复现实验环境、基线模型、成本敏感指标、策略验收方式和测试。只有这些证据成立后，项目才有资格重新成为主页旗舰。
 
-> Archived for learning history; not presented as a current production project.
+> Kept as learning history; not presented as a current production project.
