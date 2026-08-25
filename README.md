@@ -1,6 +1,12 @@
+<div align="center">
+
 # 医保欺诈识别与风险防控
 
-> **Historical data-science experiment: from anomaly detection to explainable risk strategy.**
+**从异常识别，走到可解释的风控策略——一段诚实保留的数据科学历史。**
+
+*Historical data-science experiment: from anomaly detection to explainable risk strategy.*
+
+</div>
 
 这是一个早期数据科学项目快照，研究如何把 CMS Medicare Part B 数据与 OIG LEIE 排除名单连接起来，从异常识别继续走到模型解释和风险策略。
 
